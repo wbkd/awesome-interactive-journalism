@@ -3,7 +3,7 @@ A curated list of awesome data journalism and data visualization examples.
 
 ## Basic Charts
 
-* [The Guardian: Brexit full results and analysis](https://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis) [Scatter Plot]
+* [The Guardian: Brexit full results and analysis](https://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis) [Scatter Plot, Hexbin Map]
 * [Financial Times: A people divided](https://twitter.com/FT/status/746224372432527360) [Scatter Plot]
 
 ## Interactive Maps
@@ -12,10 +12,13 @@ A curated list of awesome data journalism and data visualization examples.
 
 * [Pitch Interactive: Out of Sight, out of Mind](http://drones.pitchinteractive.com/) [Arc Diagram]
 
-## 3D+VR
+## Immersive / 3D / VR
 
 * [Wall Street Journal: Is the Nasdaq in another Bubble?](http://graphics.wsj.com/3d-nasdaq/) [3D Line Chart, VR]
 * [New York Times: 3D Yield Curve](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html) [3D Line Chart]
+* [New York Times VR App](http://www.nytimes.com/marketing/nytvr/)
+* [National Geographic: The New New York Skyline](http://www.nationalgeographic.com/new-york-city-skyline-tallest-midtown-manhattan/) [3D Visualization]
+* [The Guardian: The London Skyline of Tomorrow](https://www.theguardian.com/artanddesign/2015/dec/11/city-of-london-skyline-of-tomorrow-interactive) [3D Visualization]
 
 ## Innovative / Crazy stuff
 
