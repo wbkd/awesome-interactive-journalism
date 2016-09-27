@@ -29,6 +29,7 @@ A curated list of awesome data journalism and data visualization examples.
 * [New York Times: How the nominees' convention speeches compare](http://www.nytimes.com/interactive/2016/07/29/us/elections/trump-clinton-pence-kaine-speeches.html) [Word Cloud]
 * [Financial Times: A visual history of women's Tennis](https://ig.ft.com/sites/visual-history-of-womens-tennis/) [Line Chart, Heatmap]
 * [New York Times: Visual History of Summer Olympics](http://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html) [Stream Graph]
+* [Histography](http://histography.io/) [Dot Chart]
 
 ## Illustrations / Infographics
 
@@ -46,5 +47,3 @@ A curated list of awesome data journalism and data visualization examples.
 * [Nicholas Rougeux](http://www.c82.net/)
 * [Gregor Aisch](http://driven-by-data.net/)
 * [Alberto Lucas Lopez](http://www.lucasinfografia.com/)
-* [Morgenpost Interactive](http://www.morgenpost.de/interaktiv/)
-
