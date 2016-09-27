@@ -2,6 +2,9 @@
 A curated list of awesome data journalism and data visualization examples.
 
 ## Arc Diagram
+
+* [Pitch Interactive: Out of Sight, out of Mind](http://drones.pitchinteractive.com/)
+
 ## Area Graph
 ## Bar Chart
 ## Box & Whisker Plot
