@@ -23,8 +23,14 @@ A curated list of awesome data journalism and data visualization examples.
 * [Financial Times: A visual history of women's Tennis](https://ig.ft.com/sites/visual-history-of-womens-tennis/) [Line Chart, Heatmap]
 * [New York Times: Visual History of Summer Olympics](http://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html) [Stream Graph]
 
+## Illustrations / Infographics
+
+* [South China Morning Post: Front Pages Analysis](http://www.lucasinfografia.com/Front-pages-analysis)
+
 ## Portfolios
 
 * [Nicholas Rougeux](http://www.c82.net/)
 * [Gregor Aisch](http://driven-by-data.net/)
+* [Alberto Lucas Lopez](http://www.lucasinfografia.com/)
+* [Morgenpost Interactive](http://www.morgenpost.de/interaktiv/)
 
