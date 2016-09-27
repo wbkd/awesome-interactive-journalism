@@ -11,6 +11,7 @@ A curated list of awesome data journalism and data visualization examples.
 * [Buzzfeed: Spies in the skies](https://www.buzzfeed.com/peteraldhous/spies-in-the-skies) [Map]
 * [LA Times: Every Kobe Shot Ever](http://graphics.latimes.com/kobe-every-shot-ever/) [Map Visualization]
 * [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/) [Map, Animation, Satellite]
+* [ZEIT Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land) [Maps, Charts]
 
 ## Animations / Storytelling
 
@@ -41,6 +42,7 @@ A curated list of awesome data journalism and data visualization examples.
 
 * [Buzzfeed: The Tennis Racket](https://www.buzzfeed.com/heidiblake/the-tennis-racket)
 * [SZ: The Panama Papers](http://panamapapers.sueddeutsche.de/)
+* [Airbnb vs Berlin](http://www.airbnbvsberlin.de/)
 
 ## Portfolios
 
