@@ -1,4 +1,4 @@
-# 📊 📈 🌏 AWESOME DATA JOURNALISM 📊 📈 🌏
+# 📊 📈 🌏 Inspiration for Data Journalism and Data Visualization 📊 📈 🌏
 A curated list of awesome data journalism and data visualization examples.
 
 ## Basic Charts
