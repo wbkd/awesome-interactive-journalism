@@ -25,9 +25,16 @@ A curated list of awesome data journalism and data visualization examples.
 ## Error Bars
 ## Flow Chart
 ## Flow Map
+## Heat Map
+
+* [Financial Times: A visual history of women's Tennis](https://ig.ft.com/sites/visual-history-of-womens-tennis/)
+
 ## Histogram
 ## Illustration Diagram
-## Line Graph
+## Line Chart
+
+* [Financial Times: A visual history of women's Tennis](https://ig.ft.com/sites/visual-history-of-womens-tennis/)
+
 ## Marimekko Chart
 ## Multi-set Bar Chart
 ## Network Diagram
@@ -60,7 +67,6 @@ A curated list of awesome data journalism and data visualization examples.
 ## Violin Plot
 ## Word Cloud
 ## Gantt Chart
-## Heat Map
 ## Kagi Chart
 ## Parallel Coordinates
 ## Point & Figure Chart
