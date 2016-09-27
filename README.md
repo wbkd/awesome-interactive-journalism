@@ -14,12 +14,9 @@ A curated list of awesome data journalism and data visualization examples.
 
 ## 3D+VR
 
+* [Wall Street Journal: Is the Nasdaq in another Bubble?](http://graphics.wsj.com/3d-nasdaq/) [3D Line Chart, VR]
+
 ## Innovative / Crazy stuff
 
 * [New York Times: How the nominees' convention speeches compare](http://www.nytimes.com/interactive/2016/07/29/us/elections/trump-clinton-pence-kaine-speeches.html) [Word Cloud]
 * [Financial Times: A visual history of women's Tennis](https://ig.ft.com/sites/visual-history-of-womens-tennis/) [Line Chart, Heatmap]
-
-
-## Sources
-
-* [Brexit in interactive maps and charts](http://blog.webkid.io/brexit-maps-charts/)
