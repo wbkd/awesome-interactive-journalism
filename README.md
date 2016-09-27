@@ -8,6 +8,10 @@ A curated list of awesome data journalism and data visualization examples.
 
 ## Interactive Maps
 
+* [Buzzfeed: Spies in the skies](https://www.buzzfeed.com/peteraldhous/spies-in-the-skies) [Map]
+* [LA Times: Every Kobe Shot Ever](http://graphics.latimes.com/kobe-every-shot-ever/) [Map Visualization]
+* [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/) [Map, Animation, Satellite]
+
 ## Animations / Storytelling
 
 * [Pitch Interactive: Out of Sight, out of Mind](http://drones.pitchinteractive.com/) [Arc Diagram]
@@ -31,6 +35,11 @@ A curated list of awesome data journalism and data visualization examples.
 * [South China Morning Post: Front Pages Analysis](http://www.lucasinfografia.com/Front-pages-analysis)
 * [New York Times: How could Trumps immigration Ban work?](http://www.nytimes.com/interactive/2016/07/22/us/politics/trump-immigration-ban-how-could-it-work.html) [Map]
 * [NZZ: First Names in Switzerland](http://www.nzz.ch/panorama/namentrends-wie-vornamen-die-schweiz-erobern-und-wieder-verschwinden-ld.111687) [Small Multiple Maps]
+
+## Investigative
+
+* [Buzzfeed: The Tennis Racket](https://www.buzzfeed.com/heidiblake/the-tennis-racket)
+* [SZ: The Panama Papers](http://panamapapers.sueddeutsche.de/)
 
 ## Portfolios
 
