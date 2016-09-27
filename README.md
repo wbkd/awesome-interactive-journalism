@@ -30,6 +30,7 @@ A curated list of awesome data journalism and data visualization examples.
 
 * [South China Morning Post: Front Pages Analysis](http://www.lucasinfografia.com/Front-pages-analysis)
 * [New York Times: How could Trumps immigration Ban work?](http://www.nytimes.com/interactive/2016/07/22/us/politics/trump-immigration-ban-how-could-it-work.html) [Map]
+* [NZZ: First Names in Switzerland](http://www.nzz.ch/panorama/namentrends-wie-vornamen-die-schweiz-erobern-und-wieder-verschwinden-ld.111687) [Small Multiple Maps]
 
 ## Portfolios
 
