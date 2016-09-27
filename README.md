@@ -29,6 +29,7 @@ A curated list of awesome data journalism and data visualization examples.
 ## Illustrations / Infographics
 
 * [South China Morning Post: Front Pages Analysis](http://www.lucasinfografia.com/Front-pages-analysis)
+* [New York Times: How could Trumps immigration Ban work?](http://www.nytimes.com/interactive/2016/07/22/us/politics/trump-immigration-ban-how-could-it-work.html) [Map]
 
 ## Portfolios
 
