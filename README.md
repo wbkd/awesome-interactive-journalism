@@ -66,6 +66,9 @@ A curated list of awesome data journalism and data visualization examples.
 ## Venn Diagram
 ## Violin Plot
 ## Word Cloud
+
+* [New York Times: How the nominees' convention speeches compare](http://www.nytimes.com/interactive/2016/07/29/us/elections/trump-clinton-pence-kaine-speeches.html)
+
 ## Gantt Chart
 ## Kagi Chart
 ## Parallel Coordinates
