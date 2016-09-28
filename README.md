@@ -1,7 +1,7 @@
-# Groundbreaking Interactive Journalism
+# Interactive Journalism
 Best practice examples of data journalism and visualizations that you can use for inspiration.
 
-## Groundbreaking Maps
+## Maps
 
 * [Buzzfeed: Spies in the skies](https://www.buzzfeed.com/peteraldhous/spies-in-the-skies)
 * [LA Times: Every Kobe Shot Ever](http://graphics.latimes.com/kobe-every-shot-ever/)
@@ -15,7 +15,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [The Guardian: Brexit full results and analysis](https://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis)
 * [The Guardian: Where can you afford to buy a house](https://www.theguardian.com/society/ng-interactive/2015/sep/02/unaffordable-country-where-can-you-afford-to-buy-a-house)
 
-## Groundbreaking Storytelling
+## Storytelling
 
 * [Pitch Interactive: Out of Sight, out of Mind](http://drones.pitchinteractive.com/)
 * [Bloomberg: What's causing global warming](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/)
@@ -27,7 +27,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [FiveThirtyEight: Gun Deaths](http://fivethirtyeight.com/features/gun-deaths/)
 * [The Guardian: Usain Bolt Replay](https://www.theguardian.com/sport/ng-interactive/2016/aug/20/how-usain-bolt-secured-the-triple-treble-with-jamaica-in-the-4x100m)
 
-## Groundbreaking Immersive Journalism
+## Immersive Journalism
 
 * [Wall Street Journal: Is the Nasdaq in another Bubble?](http://graphics.wsj.com/3d-nasdaq/)
 * [New York Times: 3D Yield Curve](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
@@ -40,7 +40,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [The Guardian: Homan Square](https://www.theguardian.com/us-news/ng-interactive/2015/oct/19/homan-square-chicago-police-detainees)
 * [New York Times: Reshaping New York](http://www.nytimes.com/newsgraphics/2013/08/18/reshaping-new-york/)
 
-## Groundbreaking Interactives
+## Interactives
 
 * [The Guardian: Are you reflected in the new congress?](https://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented)
 * [Bloomberg: What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
@@ -54,7 +54,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [The Guardian: What do you call a person who moves to another country in search of a better life?](https://www.theguardian.com/uk-news/ng-interactive/2015/aug/28/words-migrant-refugee-immigration)
 * [FiveThirtyEight: Who will win presidency?](http://projects.fivethirtyeight.com/2016-election-forecast/)
 
-## Groundbreaking Visualizations
+## Visualizations
 
 * [South China Morning Post: Front Pages Analysis](http://www.lucasinfografia.com/Front-pages-analysis)
 * [New York Times: How could Trumps immigration Ban work?](http://www.nytimes.com/interactive/2016/07/22/us/politics/trump-immigration-ban-how-could-it-work.html)
@@ -74,7 +74,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [Financial Times: A visual history of women's Tennis](https://ig.ft.com/sites/visual-history-of-womens-tennis/)
 * [New York Times: All Races on the same scale](http://www.nytimes.com/interactive/2016/08/20/sports/olympics/gold-medal-racing-speeds-on-the-same-scale.html)
 
-## Groundbreaking Investigations
+## Investigations
 
 * [Buzzfeed: The Tennis Racket](https://www.buzzfeed.com/heidiblake/the-tennis-racket)
 * [SZ: The Panama Papers](http://panamapapers.sueddeutsche.de/)
@@ -85,7 +85,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [Washington Post: A visual history of Donald Trump dominating the news cycle](https://www.washingtonpost.com/graphics/politics/donald-trump-vs-hillary-clinton-in-media/)
 * [New York Times: How the nominees' convention speeches compare](http://www.nytimes.com/interactive/2016/07/29/us/elections/trump-clinton-pence-kaine-speeches.html)
 
-## Groundbreaking People
+## Influencers
 
 * [Nicholas Rougeux](http://www.c82.net/)
 * [Alberto Cairo](https://twitter.com/albertocairo)
@@ -95,7 +95,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [Maarten Lambrechts](https://twitter.com/maartenzam)
 * [Lisa Charlotte Rost](https://twitter.com/lisacrost)
 
-## Groundbreaking Portfolios
+## Portfolios
 
 * [New York Times interactive Projects 2013](http://www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/)
 * [New York Times interactive Projects 2014](http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html)
