@@ -37,6 +37,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [The Guardian: Solitary Confinement](https://www.theguardian.com/world/ng-interactive/2016/apr/27/6x9-a-virtual-experience-of-solitary-confinement) [VR Storytelling]
 * [New York Times: Greenland is melting away](http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html) [Drone Footage]
 * [The Guardian: Homan Square](https://www.theguardian.com/us-news/ng-interactive/2015/oct/19/homan-square-chicago-police-detainees) [3D Animations, Maps]
+* [New York Times: Reshaping New York](http://www.nytimes.com/newsgraphics/2013/08/18/reshaping-new-york/)
 
 ## Innovative / Crazy stuff
 
@@ -50,6 +51,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times: Can you beat Usain Bolt out of the Blocks?](http://www.nytimes.com/interactive/2016/08/13/sports/olympics/can-you-beat-usain-bolt-out-of-the-blocks.html)
 * [New York Times: All Races on the same scale](http://www.nytimes.com/interactive/2016/08/20/sports/olympics/gold-medal-racing-speeds-on-the-same-scale.html)
 * [FiveThirtyEight: How the Internet talks](http://projects.fivethirtyeight.com/reddit-ngram/)
+* [Washington Post: DNC Emoji Reactions](https://www.washingtonpost.com/graphics/politics/2016-election/dnc-emoji-reactions/)
 
 ## Illustrations / Infographics
 
@@ -62,6 +64,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times: How Syrians are dying](http://www.nytimes.com/interactive/2015/09/14/world/middleeast/syria-war-deaths.html)
 * [National Geographic: Sizing up Sharks](http://www.nationalgeographic.com/magazine/2016/06/shark-species-family-tree-ocean-ecosystem-predator/)
 * [Washington Post: The Depth of the Problem](http://apps.washingtonpost.com/g/page/world/the-depth-of-the-problem/931/) [Scrolly Graphic]
+* [Washingtong Post: A decade of Trumps imports](https://www.washingtonpost.com/graphics/politics/trump-products/)
 
 ## Investigative
 
@@ -70,6 +73,8 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [Airbnb vs Berlin](http://www.airbnbvsberlin.de/)
 * [Marshall Project: The Next to die](https://www.themarshallproject.org/next-to-die)
 * [The Guardian: The Counted](https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database)
+* [Washington Post: Fatal Force](https://www.washingtonpost.com/graphics/national/police-shootings-2016/)
+* [Washington Post: A visual history of Donald Trump dominating the news cycle](https://www.washingtonpost.com/graphics/politics/donald-trump-vs-hillary-clinton-in-media/)
 
 ## Portfolios
 
