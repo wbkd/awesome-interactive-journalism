@@ -25,6 +25,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [Pro Publica: Las Vegas Growth Map](https://projects.propublica.org/las-vegas-growth-map/) [Satellite Images]
 * [Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
 * [FiveThirtyEight: Gun Deaths](http://fivethirtyeight.com/features/gun-deaths/)
+* [The Guardian: Usain Bolt Replay](https://www.theguardian.com/sport/ng-interactive/2016/aug/20/how-usain-bolt-secured-the-triple-treble-with-jamaica-in-the-4x100m)
 
 ## Immersive / 3D / VR
 
@@ -92,3 +93,4 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times interactive Projects 2014](http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html)
 * [New York Times interactive Projects 2015](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
 * [Washington Post Graphics](https://twitter.com/PostGraphics)
+* [Guardian Visuals](https://twitter.com/GuardianVisuals)
