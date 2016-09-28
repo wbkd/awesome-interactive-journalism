@@ -85,3 +85,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
 * [Maarten Lambrechts](https://twitter.com/maartenzam)
 * [Lisa Charlotte Rost](https://twitter.com/lisacrost)
+* [New York Times interactive Projects 2013](http://www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/)
+* [New York Times interactive Projects 2014](http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html)
+* [New York Times interactive Projects 2015](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
+* [Washington Post Graphics](https://twitter.com/PostGraphics)
