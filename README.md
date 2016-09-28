@@ -64,14 +64,14 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times: How they got their guns](http://www.nytimes.com/interactive/2015/10/03/us/how-mass-shooters-got-their-guns.html)
 * [New York Times: How Syrians are dying](http://www.nytimes.com/interactive/2015/09/14/world/middleeast/syria-war-deaths.html)
 * [National Geographic: Sizing up Sharks](http://www.nationalgeographic.com/magazine/2016/06/shark-species-family-tree-ocean-ecosystem-predator/)
-* [Washington Post: The Depth of the Problem](http://apps.washingtonpost.com/g/page/world/the-depth-of-the-problem/931/) [Scrolly Graphic]
+* [Washington Post: The Depth of the Problem](http://apps.washingtonpost.com/g/page/world/the-depth-of-the-problem/931/)
 * [Washingtong Post: A decade of Trumps imports](https://www.washingtonpost.com/graphics/politics/trump-products/)
 * [Financial Times: Is urban cycling worth the risk?](https://ig.ft.com/sites/urban-cycling/)
 * [The Guardian: What's the world scared of?](https://www.theguardian.com/news/datablog/ng-interactive/2015/jul/17/interactive-whats-the-world-scared-of)
 * [New York Times: Visual History of Summer Olympics](http://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html)
 * [Histography](http://histography.io/)
 * [Polygraph: The entire history of Kickstarter](http://polygraph.cool/kickstarter/)
-* [Financial Times: A visual history of women's Tennis](https://ig.ft.com/sites/visual-history-of-womens-tennis/) [Line Chart, Heatmap]
+* [Financial Times: A visual history of women's Tennis](https://ig.ft.com/sites/visual-history-of-womens-tennis/)
 * [New York Times: All Races on the same scale](http://www.nytimes.com/interactive/2016/08/20/sports/olympics/gold-medal-racing-speeds-on-the-same-scale.html)
 
 ## Groundbreaking Investigations
