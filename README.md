@@ -44,8 +44,8 @@ Best practice examples of data journalism and visualizations that you can use fo
 
 * [The Guardian: Are you reflected in the new congress?](https://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented)
 * [Bloomberg: What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-* [New York Times: Spot the Ball](http://projects.nytimes.com/interactive/sports/worldcup/spot-the-ball/2014/06/17) [Newsgame]
-* [New York Times: You Draw It](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html) [Newsgame]
+* [New York Times: Spot the Ball](http://projects.nytimes.com/interactive/sports/worldcup/spot-the-ball/2014/06/17)
+* [New York Times: You Draw It](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html)
 * [New York Times: Can you beat Usain Bolt out of the Blocks?](http://www.nytimes.com/interactive/2016/08/13/sports/olympics/can-you-beat-usain-bolt-out-of-the-blocks.html)
 * [FiveThirtyEight: How the Internet talks](http://projects.fivethirtyeight.com/reddit-ngram/)
 * [Washington Post: DNC Emoji Reactions](https://www.washingtonpost.com/graphics/politics/2016-election/dnc-emoji-reactions/)
@@ -57,8 +57,8 @@ Best practice examples of data journalism and visualizations that you can use fo
 ## Groundbreaking Visualizations
 
 * [South China Morning Post: Front Pages Analysis](http://www.lucasinfografia.com/Front-pages-analysis)
-* [New York Times: How could Trumps immigration Ban work?](http://www.nytimes.com/interactive/2016/07/22/us/politics/trump-immigration-ban-how-could-it-work.html) [Map]
-* [NZZ: First Names in Switzerland](http://www.nzz.ch/panorama/namentrends-wie-vornamen-die-schweiz-erobern-und-wieder-verschwinden-ld.111687) [Small Multiple Maps]
+* [New York Times: How could Trumps immigration Ban work?](http://www.nytimes.com/interactive/2016/07/22/us/politics/trump-immigration-ban-how-could-it-work.html)
+* [NZZ: First Names in Switzerland](http://www.nzz.ch/panorama/namentrends-wie-vornamen-die-schweiz-erobern-und-wieder-verschwinden-ld.111687)
 * [Washington Post: Sizing up the Olympics](https://www.washingtonpost.com/graphics/sports/olympics/scale-of-the-olympics/)
 * [Bloomberg: Billionaires](http://www.bloomberg.com/billionaires/2016-09-27/cya)
 * [New York Times: How they got their guns](http://www.nytimes.com/interactive/2015/10/03/us/how-mass-shooters-got-their-guns.html)
