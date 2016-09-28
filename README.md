@@ -26,6 +26,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
 * [FiveThirtyEight: Gun Deaths](http://fivethirtyeight.com/features/gun-deaths/)
 * [The Guardian: Usain Bolt Replay](https://www.theguardian.com/sport/ng-interactive/2016/aug/20/how-usain-bolt-secured-the-triple-treble-with-jamaica-in-the-4x100m)
+* [Berliner Morgenpost: M29](http://interaktiv.morgenpost.de/m29/)
 
 ## Immersive Journalism
 
@@ -84,6 +85,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [Washington Post: Fatal Force](https://www.washingtonpost.com/graphics/national/police-shootings-2016/)
 * [Washington Post: A visual history of Donald Trump dominating the news cycle](https://www.washingtonpost.com/graphics/politics/donald-trump-vs-hillary-clinton-in-media/)
 * [New York Times: How the nominees' convention speeches compare](http://www.nytimes.com/interactive/2016/07/29/us/elections/trump-clinton-pence-kaine-speeches.html)
+* [The Intercept: The Android Administration](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/)
 
 ## Influencers
 
