@@ -9,6 +9,9 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [ZEIT Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land) [Maps, Charts]
 * [Aljazeera: Where would 10.8 million displaced Syrians fit?](http://projects.aljazeera.com/2013/syrias-refugees/)
 * [Shipmap](http://shipmap.org/)
+* [New York Times: The Best and Worst places to grow up](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html)
+* [New York Times: Mapping Segregation](http://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
+* [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
 
 ## Animations / Storytelling
 
@@ -49,6 +52,8 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [Washington Post: Sizing up the Olympics](https://www.washingtonpost.com/graphics/sports/olympics/scale-of-the-olympics/?%3Ftid%3D=sm_pg&%3Ftid%3D=sm_pg)
 * [Bloomberg: Billionaires](http://www.bloomberg.com/billionaires/2016-09-27/cya)
 * [New York Times: How they got their guns](http://www.nytimes.com/interactive/2015/10/03/us/how-mass-shooters-got-their-guns.html)
+* [New York Times: How Syrians are dying](http://www.nytimes.com/interactive/2015/09/14/world/middleeast/syria-war-deaths.html)
+* [National Geographic: Sizing up Sharks](http://www.nationalgeographic.com/magazine/2016/06/shark-species-family-tree-ocean-ecosystem-predator/)
 
 ## Basic Charts
 
