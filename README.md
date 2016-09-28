@@ -12,6 +12,8 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times: The Best and Worst places to grow up](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html)
 * [New York Times: Mapping Segregation](http://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
+* [The Guardian: Brexit full results and analysis](https://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis) [Scatter Plot, Hexbin Map]
+* [FiveThirtyEight: Who will win presidency?](http://projects.fivethirtyeight.com/2016-election-forecast/#stateorder)
 
 ## Animations / Storytelling
 
@@ -43,6 +45,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times: Spot the Ball](http://projects.nytimes.com/interactive/sports/worldcup/spot-the-ball/2014/06/17) [Newsgame]
 * [New York Times: You Draw It](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html) [Newsgame]
 * [New York Times: Can you beat Usain Bolt out of the Blocks?](http://www.nytimes.com/interactive/2016/08/13/sports/olympics/can-you-beat-usain-bolt-out-of-the-blocks.html)
+* [New York Times: All Races on the same scale](http://www.nytimes.com/interactive/2016/08/20/sports/olympics/gold-medal-racing-speeds-on-the-same-scale.html)
 
 ## Illustrations / Infographics
 
@@ -54,11 +57,6 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times: How they got their guns](http://www.nytimes.com/interactive/2015/10/03/us/how-mass-shooters-got-their-guns.html)
 * [New York Times: How Syrians are dying](http://www.nytimes.com/interactive/2015/09/14/world/middleeast/syria-war-deaths.html)
 * [National Geographic: Sizing up Sharks](http://www.nationalgeographic.com/magazine/2016/06/shark-species-family-tree-ocean-ecosystem-predator/)
-
-## Basic Charts
-
-* [The Guardian: Brexit full results and analysis](https://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis) [Scatter Plot, Hexbin Map]
-* [Financial Times: A people divided](https://twitter.com/FT/status/746224372432527360) [Scatter Plot]
 
 ## Investigative
 
@@ -74,3 +72,6 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [Alberto Lucas Lopez](http://www.lucasinfografia.com/)
 * [Polygraph](http://polygraph.cool/)
 * [Gregor Aisch](http://driven-by-data.net/)
+* [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
+* [Maarten Lambrechts](https://twitter.com/maartenzam)
+* [Lisa Charlotte Rost](https://twitter.com/lisacrost)
