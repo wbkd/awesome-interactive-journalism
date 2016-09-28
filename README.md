@@ -54,6 +54,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [FiveThirtyEight: How the Internet talks](http://projects.fivethirtyeight.com/reddit-ngram/)
 * [Washington Post: DNC Emoji Reactions](https://www.washingtonpost.com/graphics/politics/2016-election/dnc-emoji-reactions/)
 * [The Guardian: Rio Run](riorun.theguardian.com)
+* [The Guardian: How well do you know your country?](https://www.theguardian.com/world/ng-interactive/2015/dec/02/how-well-do-you-really-know-your-country-take-our-quiz)
 
 ## Illustrations / Infographics
 
