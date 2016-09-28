@@ -34,7 +34,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times VR App](http://www.nytimes.com/marketing/nytvr/)
 * [National Geographic: The New New York Skyline](http://www.nationalgeographic.com/new-york-city-skyline-tallest-midtown-manhattan/)
 * [The Guardian: The London Skyline of Tomorrow](https://www.theguardian.com/artanddesign/2015/dec/11/city-of-london-skyline-of-tomorrow-interactive)
-* [New York Times: The Dawn Wall](http://www.nytimes.com/interactive/2015/01/09/sports/the-dawn-wall-el-capitan.html) [3D Model]
+* [New York Times: The Dawn Wall](http://www.nytimes.com/interactive/2015/01/09/sports/the-dawn-wall-el-capitan.html)
 * [The Guardian: Solitary Confinement](https://www.theguardian.com/world/ng-interactive/2016/apr/27/6x9-a-virtual-experience-of-solitary-confinement)
 * [New York Times: Greenland is melting away](http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html)
 * [The Guardian: Homan Square](https://www.theguardian.com/us-news/ng-interactive/2015/oct/19/homan-square-chicago-police-detainees)
