@@ -76,9 +76,10 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [Washington Post: Fatal Force](https://www.washingtonpost.com/graphics/national/police-shootings-2016/)
 * [Washington Post: A visual history of Donald Trump dominating the news cycle](https://www.washingtonpost.com/graphics/politics/donald-trump-vs-hillary-clinton-in-media/)
 
-## Portfolios
+## Portfolios / People
 
 * [Nicholas Rougeux](http://www.c82.net/)
+* [Alberto Cairo](https://twitter.com/albertocairo)
 * [Alberto Lucas Lopez](http://www.lucasinfografia.com/)
 * [Polygraph](http://polygraph.cool/)
 * [Gregor Aisch](http://driven-by-data.net/)
