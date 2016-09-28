@@ -52,6 +52,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times: All Races on the same scale](http://www.nytimes.com/interactive/2016/08/20/sports/olympics/gold-medal-racing-speeds-on-the-same-scale.html)
 * [FiveThirtyEight: How the Internet talks](http://projects.fivethirtyeight.com/reddit-ngram/)
 * [Washington Post: DNC Emoji Reactions](https://www.washingtonpost.com/graphics/politics/2016-election/dnc-emoji-reactions/)
+* [The Guardian: Rio Run](riorun.theguardian.com)
 
 ## Illustrations / Infographics
 
@@ -65,6 +66,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [National Geographic: Sizing up Sharks](http://www.nationalgeographic.com/magazine/2016/06/shark-species-family-tree-ocean-ecosystem-predator/)
 * [Washington Post: The Depth of the Problem](http://apps.washingtonpost.com/g/page/world/the-depth-of-the-problem/931/) [Scrolly Graphic]
 * [Washingtong Post: A decade of Trumps imports](https://www.washingtonpost.com/graphics/politics/trump-products/)
+* [Financial Times: Is urban cycling worth the risk?](https://ig.ft.com/sites/urban-cycling/)
 
 ## Investigative
 
