@@ -23,6 +23,8 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times: Michael Phelps vs. Himself](http://www.nytimes.com/interactive/2016/08/09/sports/olympics/2016-08-09-olympics-phelps-vs-phelps.html)
 * [New York Times: What China has been building in the South China Sea](http://www.nytimes.com/interactive/2015/07/30/world/asia/what-china-has-been-building-in-the-south-china-sea-2016.html) [Satellite Images Animation]
 * [Pro Publica: Las Vegas Growth Map](https://projects.propublica.org/las-vegas-growth-map/) [Satellite Images]
+* [Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
+* [FiveThirtyEight: Gun Deaths](http://fivethirtyeight.com/features/gun-deaths/)
 
 ## Immersive / 3D / VR
 
@@ -34,6 +36,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times: The Dawn Wall](http://www.nytimes.com/interactive/2015/01/09/sports/the-dawn-wall-el-capitan.html) [3D Model]
 * [The Guardian: Solitary Confinement](https://www.theguardian.com/world/ng-interactive/2016/apr/27/6x9-a-virtual-experience-of-solitary-confinement) [VR Storytelling]
 * [New York Times: Greenland is melting away](http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html) [Drone Footage]
+* [The Guardian: Homan Square](https://www.theguardian.com/us-news/ng-interactive/2015/oct/19/homan-square-chicago-police-detainees) [3D Animations, Maps]
 
 ## Innovative / Crazy stuff
 
@@ -46,6 +49,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times: You Draw It](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html) [Newsgame]
 * [New York Times: Can you beat Usain Bolt out of the Blocks?](http://www.nytimes.com/interactive/2016/08/13/sports/olympics/can-you-beat-usain-bolt-out-of-the-blocks.html)
 * [New York Times: All Races on the same scale](http://www.nytimes.com/interactive/2016/08/20/sports/olympics/gold-medal-racing-speeds-on-the-same-scale.html)
+* [FiveThirtyEight: How the Internet talks](http://projects.fivethirtyeight.com/reddit-ngram/)
 
 ## Illustrations / Infographics
 
@@ -57,6 +61,7 @@ Best practice examples of data journalism and visualizations that you can use fo
 * [New York Times: How they got their guns](http://www.nytimes.com/interactive/2015/10/03/us/how-mass-shooters-got-their-guns.html)
 * [New York Times: How Syrians are dying](http://www.nytimes.com/interactive/2015/09/14/world/middleeast/syria-war-deaths.html)
 * [National Geographic: Sizing up Sharks](http://www.nationalgeographic.com/magazine/2016/06/shark-species-family-tree-ocean-ecosystem-predator/)
+* [Washington Post: The Depth of the Problem](http://apps.washingtonpost.com/g/page/world/the-depth-of-the-problem/931/) [Scrolly Graphic]
 
 ## Investigative
 
