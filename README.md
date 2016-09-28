@@ -1,5 +1,5 @@
-# Interactive Journalism
-Best practice examples of data journalism and visualizations that you can use for inspiration.
+# Awesome Interactive Journalism
+This list contains best practice examples of data journalism and visualization projects. It is not complete. You are welcome to contribute.
 
 ## Maps
 
