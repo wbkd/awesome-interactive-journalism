@@ -3,22 +3,22 @@ This list contains best practice examples of data journalism and visualization p
 
 ## Maps
 
-* [Buzzfeed: Spies in the skies](https://www.buzzfeed.com/peteraldhous/spies-in-the-skies)
-* [LA Times: Every Kobe Shot Ever](http://graphics.latimes.com/kobe-every-shot-ever/)
-* [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/)
-* [Zeit Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land)
 * [Aljazeera: Where would 10.8 million displaced Syrians fit?](http://projects.aljazeera.com/2013/syrias-refugees/)
+* [Buzzfeed: Spies in the skies](https://www.buzzfeed.com/peteraldhous/spies-in-the-skies)
+* [The Guardian: Brexit full results and analysis](https://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis)
+* [The Guardian: Where can you afford to buy a house](https://www.theguardian.com/society/ng-interactive/2015/sep/02/unaffordable-country-where-can-you-afford-to-buy-a-house)
 * [Kiln: Shipmap](http://shipmap.org/)
+* [LA Times: Every Kobe Shot Ever](http://graphics.latimes.com/kobe-every-shot-ever/)
 * [New York Times: The Best and Worst places to grow up](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html)
 * [New York Times: Mapping Segregation](http://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
-* [The Guardian: Brexit full results and analysis](https://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis)
-* [The Guardian: Where can you afford to buy a house](https://www.theguardian.com/society/ng-interactive/2015/sep/02/unaffordable-country-where-can-you-afford-to-buy-a-house)
+* [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/)
+* [Zeit Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land)
 
 ## Storytelling
 
-* [Pitch Interactive: Out of Sight, out of Mind](http://drones.pitchinteractive.com/)
 * [Bloomberg: What's causing global warming](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/)
+* [Pitch Interactive: Out of Sight, out of Mind](http://drones.pitchinteractive.com/)
 * [New York Times: Michael Phelps vs. Himself](http://www.nytimes.com/interactive/2016/08/09/sports/olympics/2016-08-09-olympics-phelps-vs-phelps.html)
 * [New York Times: What China has been building in the South China Sea](http://www.nytimes.com/interactive/2015/07/30/world/asia/what-china-has-been-building-in-the-south-china-sea-2016.html)
 * [The Guardian: Corals, South China Sea](https://www.theguardian.com/world/ng-interactive/2015/sep/17/south-china-sea-images-reveal-impact-on-coral-of-beijings-military-bases)
