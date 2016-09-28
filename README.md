@@ -1,4 +1,4 @@
-# 📊 📈 🌏 Groundbreaking Interactive Journalism 📊 📈 🌏
+# Groundbreaking Interactive Journalism
 Best practice examples of data journalism and visualizations that you can use for inspiration.
 
 ## Groundbreaking Maps
