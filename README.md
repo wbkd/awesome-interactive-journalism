@@ -4,6 +4,7 @@ This list contains best practice examples of data journalism and visualization p
 ## Maps
 
 * [Aljazeera: Where would 10.8 million displaced Syrians fit?](http://projects.aljazeera.com/2013/syrias-refugees/)
+* [Berliner Morgenpost: Europakarte](http://interaktiv.morgenpost.de/europakarte/)
 * [Buzzfeed: Spies in the skies](https://www.buzzfeed.com/peteraldhous/spies-in-the-skies)
 * [The Guardian: Brexit full results and analysis](https://www.theguardian.com/politics/ng-interactive/2016/jun/23/eu-referendum-live-results-and-analysis)
 * [The Guardian: Where can you afford to buy a house](https://www.theguardian.com/society/ng-interactive/2015/sep/02/unaffordable-country-where-can-you-afford-to-buy-a-house)
@@ -94,7 +95,7 @@ This list contains best practice examples of data journalism and visualization p
 * [Washington Post: A visual history of Donald Trump dominating the news cycle](https://www.washingtonpost.com/graphics/politics/donald-trump-vs-hillary-clinton-in-media/)
 * [Washington Post: Fatal Force](https://www.washingtonpost.com/graphics/national/police-shootings-2016/)
 
-## Influencers
+## Who to follow
 
 * [Alberto Cairo](https://twitter.com/albertocairo)
 * [Alberto Lucas Lopez](https://twitter.com/aLucasLopez)
@@ -106,6 +107,7 @@ This list contains best practice examples of data journalism and visualization p
 * [Elijah Meeks](https://twitter.com/Elijah_Meeks)
 * [Gregor Aisch](https://twitter.com/driven_by_data)
 * [Hans Hack](https://twitter.com/hnshck)
+* [Jan Willem Tulp](https://twitter.com/JanWillemTulp)
 * [Jason Davies](https://twitter.com/jasondavies)
 * [Jeremy Bowers](https://twitter.com/jeremybowers)
 * [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
@@ -134,4 +136,6 @@ This list contains best practice examples of data journalism and visualization p
 * [New York Times interactive Projects 2015](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
 * [NZZ Storytelling](https://twitter.com/NZZStorytelling)
 * [Polygraph](http://polygraph.cool/)
+* [Tulp Interactive](http://tulpinteractive.com/)
 * [Washington Post Graphics](https://twitter.com/PostGraphics)
+* [Webkid](http://webkid.io/)
