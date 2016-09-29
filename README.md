@@ -74,6 +74,8 @@ This list contains best practice examples of data journalism and visualization p
 * [Polygraph: The entire history of Kickstarter](http://polygraph.cool/kickstarter/)
 * [Financial Times: A visual history of women's Tennis](https://ig.ft.com/sites/visual-history-of-womens-tennis/)
 * [New York Times: All Races on the same scale](http://www.nytimes.com/interactive/2016/08/20/sports/olympics/gold-medal-racing-speeds-on-the-same-scale.html)
+* [Bloomberg: How Red Meat Joined the 478 Other Things That Might Give You Cancer](http://www.bloomberg.com/graphics/2015-red-meat-cancer/)
+* [Dear Data](http://www.dear-data.com/)
 
 ## Investigations
 
@@ -86,6 +88,9 @@ This list contains best practice examples of data journalism and visualization p
 * [Washington Post: A visual history of Donald Trump dominating the news cycle](https://www.washingtonpost.com/graphics/politics/donald-trump-vs-hillary-clinton-in-media/)
 * [New York Times: How the nominees' convention speeches compare](http://www.nytimes.com/interactive/2016/07/29/us/elections/trump-clinton-pence-kaine-speeches.html)
 * [The Intercept: The Android Administration](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/)
+* [ProPublica: What Facebook knows about you](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
+* [ProPublica: Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+* [FiveThirtyEight: A Plagiarism Scandal is unfolding in the Crossword world](http://fivethirtyeight.com/features/a-plagiarism-scandal-is-unfolding-in-the-crossword-world/)
 
 ## Influencers
 
@@ -96,6 +101,7 @@ This list contains best practice examples of data journalism and visualization p
 * [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
 * [Maarten Lambrechts](https://twitter.com/maartenzam)
 * [Lisa Charlotte Rost](https://twitter.com/lisacrost)
+* [Sisi Wei](https://twitter.com/sisiwei)
 
 ## Portfolios
 
