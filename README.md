@@ -14,7 +14,6 @@ This list contains best practice examples of data journalism and visualization p
 * [New York Times: Mapping Segregation](http://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
 * [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/)
-* [Reveal: Now this is a story all about how we found the Wet Princes of Bel Air](https://www.revealnews.org/blog/now-this-is-a-story-all-about-how-we-found-the-wet-princes-of-bel-air/)
 * [SPLC: Hate Map](https://www.splcenter.org/hate-map)
 * [Zeit Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land)
 
