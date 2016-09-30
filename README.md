@@ -56,7 +56,6 @@ An opinionated list of best practice examples of data journalism and visualizati
 
 * [Bloomberg: What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [FiveThirtyEight: How the Internet talks](http://projects.fivethirtyeight.com/reddit-ngram/)
-* [FiveThirtyEight: Who will win presidency?](http://projects.fivethirtyeight.com/2016-election-forecast/)
 * [New York Times: Can you beat Usain Bolt out of the Blocks?](http://www.nytimes.com/interactive/2016/08/13/sports/olympics/can-you-beat-usain-bolt-out-of-the-blocks.html)
 * [New York Times: Spot the Ball](http://projects.nytimes.com/interactive/sports/worldcup/spot-the-ball/2014/06/17)
 * [New York Times: You Draw It](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html)
@@ -132,6 +131,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Lena Groeger](https://twitter.com/lenagroeger)
 * [Lisa Charlotte Rost](https://twitter.com/lisacrost)
 * [Maarten Lambrechts](https://twitter.com/maartenzam)
+* [Mara Averick](https://twitter.com/dataandme)
 * [Martin Gonzales](https://twitter.com/martgnz)
 * [Martin Stabe](https://twitter.com/martinstabe)
 * [Michael Corey](https://www.twitter.com/mikejcorey)
@@ -141,6 +141,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Nathan Yau](https://twitter.com/flowingdata)
 * [Nadieh Bremer](https://twitter.com/NadiehBremer)
 * [Nicholas Rougeux](https://twitter.com/rougeux)
+* [Patrick Stotz](https://twitter.com/PatrickStotz)
 * [Ritchie King](https://twitter.com/RitchieSKing)
 * [Sisi Wei](https://twitter.com/sisiwei)
 * [Timo Grossenbacher](https://twitter.com/grssnbchr)
@@ -150,6 +151,9 @@ An opinionated list of best practice examples of data journalism and visualizati
 
 ## Portfolios
 
+* [AP Interactive](https://twitter.com/AP_Interactive)
+* [Berliner Morgenpost](http://www.morgenpost.de/interaktiv/)
+* [Bloomberg](https://www.bloomberg.com/graphics/infographics/)
 * [BuzzFeedNews](https://github.com/BuzzFeedNews/everything)
 * [FiveThirtyEight](https://twitter.com/FiveThirtyEight)
 * [Guardian Visuals](https://twitter.com/GuardianVisuals)
