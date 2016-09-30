@@ -55,7 +55,7 @@ This list contains best practice examples of data journalism and visualization p
 * [The Guardian: How well do you know your country?](https://www.theguardian.com/world/ng-interactive/2015/dec/02/how-well-do-you-really-know-your-country-take-our-quiz)
 * [The Guardian: Rio Run](riorun.theguardian.com)
 * [The Guardian: What do you call a person who moves to another country in search of a better life?](https://www.theguardian.com/uk-news/ng-interactive/2015/aug/28/words-migrant-refugee-immigration)
-* [Wall Street Journals: Are you good enough to be a Tennis Line Judge?](http://graphics.wsj.com/are-you-good-enough-to-be-a-tennis-line-judge/)
+* [Wall Street Journal: Are you good enough to be a Tennis Line Judge?](http://graphics.wsj.com/are-you-good-enough-to-be-a-tennis-line-judge/)
 * [Washington Post: DNC Emoji Reactions](https://www.washingtonpost.com/graphics/politics/2016-election/dnc-emoji-reactions/)
 
 ## Visualizations
