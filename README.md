@@ -15,6 +15,7 @@ This list contains best practice examples of data journalism and visualization p
 * [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
 * [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/)
 * [SPLC: Hate Map](https://www.splcenter.org/hate-map)
+* [SRF Data: So sprechen 670'000 Menschen – die grosse Dialektkarte](http://www.srf.ch/news/schweiz/so-sprechen-670-000-menschen-die-grosse-dialektkarte)
 * [Zeit Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land)
 
 ## Storytelling
@@ -114,6 +115,7 @@ This list contains best practice examples of data journalism and visualization p
 * [Jeremy Bowers](https://twitter.com/jeremybowers)
 * [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
 * [Julius Tröger](https://twitter.com/juliustroeger)
+* [Julian Schmidli](https://twitter.com/julianschmidli)
 * [Lena Groeger](https://twitter.com/lenagroeger)
 * [Lisa Charlotte Rost](https://twitter.com/lisacrost)
 * [Maarten Lambrechts](https://twitter.com/maartenzam)
@@ -124,6 +126,7 @@ This list contains best practice examples of data journalism and visualization p
 * [Nadieh Bremer](https://twitter.com/NadiehBremer)
 * [Nicholas Rougeux](https://twitter.com/rougeux)
 * [Sisi Wei](https://twitter.com/sisiwei)
+* [Timo Grossenbacher](https://twitter.com/grssnbchr)
 * [Tom Pearson](https://twitter.com/tomp)
 
 ## Portfolios
@@ -138,6 +141,7 @@ This list contains best practice examples of data journalism and visualization p
 * [New York Times interactive Projects 2015](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
 * [NZZ Storytelling](https://twitter.com/NZZStorytelling)
 * [Polygraph](http://polygraph.cool/)
+* [SRF Data](http://www.srf.ch/data)
 * [Tulp Interactive](http://tulpinteractive.com/)
 * [Washington Post Graphics](https://twitter.com/PostGraphics)
 * [Webkid](http://webkid.io/)
