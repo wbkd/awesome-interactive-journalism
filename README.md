@@ -14,6 +14,7 @@ This list contains best practice examples of data journalism and visualization p
 * [New York Times: Mapping Segregation](http://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
 * [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/)
+* [Reveal: Now this is a story all about how we found the Wet Princes of Bel Air](https://www.revealnews.org/blog/now-this-is-a-story-all-about-how-we-found-the-wet-princes-of-bel-air/)
 * [SPLC: Hate Map](https://www.splcenter.org/hate-map)
 * [Zeit Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land)
 
@@ -99,8 +100,12 @@ This list contains best practice examples of data journalism and visualization p
 
 ## Who to follow
 
+* [Aaron Bycoffe](https://twitter.com/bycoffe)
+* [Adam Pearce](https://twitter.com/adamrpearce)
 * [Alberto Cairo](https://twitter.com/albertocairo)
 * [Alberto Lucas Lopez](https://twitter.com/aLucasLopez)
+* [Allison McCann](https://twitter.com/atmccann)
+* [Andrew Flowers](https://twitter.com/andrewflowers)
 * [Alexandra Wisniewska](https://twitter.com/alekswis)
 * [Andy Kirk](https://twitter.com/visualisingdata)
 * [Brian Boyer](https://twitter.com/brianboyer)
@@ -113,20 +118,28 @@ This list contains best practice examples of data journalism and visualization p
 * [Jason Davies](https://twitter.com/jasondavies)
 * [Jeremy Bowers](https://twitter.com/jeremybowers)
 * [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
+* [Joshua Hatch](https://twitter.com/hatchjt)
 * [Julius Tröger](https://twitter.com/juliustroeger)
 * [Julian Schmidli](https://twitter.com/julianschmidli)
+* [Kendall Taggart](https://twitter.com/kendallttaggart)
 * [Lena Groeger](https://twitter.com/lenagroeger)
 * [Lisa Charlotte Rost](https://twitter.com/lisacrost)
 * [Maarten Lambrechts](https://twitter.com/maartenzam)
 * [Martin Gonzales](https://twitter.com/martgnz)
 * [Martin Stabe](https://twitter.com/martinstabe)
+* [Michael Corey](https://www.twitter.com/mikejcorey)
 * [Mike Bostock](https://twitter.com/mbostock)
 * [Moritz Stefaner](https://twitter.com/moritz_stefaner)
+* [Nate Silver](https://twitter.com/natesilver538)
+* [Nathan Yau](https://twitter.com/flowingdata)
 * [Nadieh Bremer](https://twitter.com/NadiehBremer)
 * [Nicholas Rougeux](https://twitter.com/rougeux)
+* [Ritchie King](https://twitter.com/RitchieSKing)
 * [Sisi Wei](https://twitter.com/sisiwei)
 * [Timo Grossenbacher](https://twitter.com/grssnbchr)
+* [Tom Meagher](https://twitter.com/ultracasual)
 * [Tom Pearson](https://twitter.com/tomp)
+* [Walter Hickey](https://twitter.com/WaltHickey)
 
 ## Portfolios
 
