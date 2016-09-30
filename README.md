@@ -1,5 +1,5 @@
 # Awesome Interactive Journalism
-This list contains best practice examples of data journalism and visualization projects. What are your favorites? Contributers are very welcome.
+This list contains best practice examples of data journalism and visualization projects. What are your favorites? Contributors are very welcome.
 
 ## Maps
 
@@ -102,27 +102,36 @@ This list contains best practice examples of data journalism and visualization p
 * [Alberto Cairo](https://twitter.com/albertocairo)
 * [Alberto Lucas Lopez](https://twitter.com/aLucasLopez)
 * [Alexandra Wisniewska](https://twitter.com/alekswis)
+* [Amanda Cox](https://twitter.com/amandacox)
+* [Amanda Hickman](https://twitter.com/amandabee)
 * [Andy Kirk](https://twitter.com/visualisingdata)
 * [Brian Boyer](https://twitter.com/brianboyer)
 * [David Bauer](https://twitter.com/davidbauer)
 * [Derek Willis](https://twitter.com/derekwillis)
 * [Elijah Meeks](https://twitter.com/Elijah_Meeks)
+* [Erik Hinton])(https://twitter.com/erikhinton)
 * [Gregor Aisch](https://twitter.com/driven_by_data)
 * [Hans Hack](https://twitter.com/hnshck)
 * [Jan Willem Tulp](https://twitter.com/JanWillemTulp)
 * [Jason Davies](https://twitter.com/jasondavies)
 * [Jeremy Bowers](https://twitter.com/jeremybowers)
+* [Jeremy Singer-Vine](https://twitter.com/jsvine)
 * [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
+* [Julia Wolfe](https://twitter.com/juruwolfe)
 * [Julius Tröger](https://twitter.com/juliustroeger)
 * [Lena Groeger](https://twitter.com/lenagroeger)
 * [Lisa Charlotte Rost](https://twitter.com/lisacrost)
 * [Maarten Lambrechts](https://twitter.com/maartenzam)
+* [Martin Burch](https://twitter.com/seecmb)
+* [Matt Waite](https://twitter.com/mattwaite)
 * [Martin Gonzales](https://twitter.com/martgnz)
 * [Martin Stabe](https://twitter.com/martinstabe)
 * [Mike Bostock](https://twitter.com/mbostock)
 * [Moritz Stefaner](https://twitter.com/moritz_stefaner)
 * [Nadieh Bremer](https://twitter.com/NadiehBremer)
 * [Nicholas Rougeux](https://twitter.com/rougeux)
+* [Sarah Cohen](https://twitter.com/sarahcnyt)
+* [Scott Klein](https://twitter.com/kleinmatic)
 * [Sisi Wei](https://twitter.com/sisiwei)
 * [Tom Pearson](https://twitter.com/tomp)
 
