@@ -15,7 +15,6 @@ This list contains best practice examples of data journalism and visualization p
 * [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
 * [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/)
 * [SPLC: Hate Map](https://www.splcenter.org/hate-map)
-* [SRF Data: So sprechen 670'000 Menschen – die grosse Dialektkarte](http://www.srf.ch/news/schweiz/so-sprechen-670-000-menschen-die-grosse-dialektkarte)
 * [Zeit Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land)
 
 ## Storytelling
