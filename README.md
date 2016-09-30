@@ -29,7 +29,6 @@ This list contains best practice examples of data journalism and visualization p
 * [Pro Publica: Las Vegas Growth Map](https://projects.propublica.org/las-vegas-growth-map/)
 * [The Guardian: Corals, South China Sea](https://www.theguardian.com/world/ng-interactive/2015/sep/17/south-china-sea-images-reveal-impact-on-coral-of-beijings-military-bases)
 * [The Guardian: Usain Bolt Replay](https://www.theguardian.com/sport/ng-interactive/2016/aug/20/how-usain-bolt-secured-the-triple-treble-with-jamaica-in-the-4x100m)
-* [Wall Street Journal: Analysing the Rap Musical Hamilton](http://graphics.wsj.com/hamilton/)
 
 ## Immersive Journalism
 
@@ -49,7 +48,6 @@ This list contains best practice examples of data journalism and visualization p
 
 * [Bloomberg: What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [FiveThirtyEight: How the Internet talks](http://projects.fivethirtyeight.com/reddit-ngram/)
-* [FiveThirtyEight: Who will win presidency?](http://projects.fivethirtyeight.com/2016-election-forecast/)
 * [New York Times: Can you beat Usain Bolt out of the Blocks?](http://www.nytimes.com/interactive/2016/08/13/sports/olympics/can-you-beat-usain-bolt-out-of-the-blocks.html)
 * [New York Times: Spot the Ball](http://projects.nytimes.com/interactive/sports/worldcup/spot-the-ball/2014/06/17)
 * [New York Times: You Draw It](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html)
@@ -90,13 +88,11 @@ This list contains best practice examples of data journalism and visualization p
 * [Airbnb vs Berlin](http://www.airbnbvsberlin.de/)
 * [Buzzfeed: The Tennis Racket](https://www.buzzfeed.com/heidiblake/the-tennis-racket)
 * [FiveThirtyEight: A Plagiarism Scandal is unfolding in the Crossword world](http://fivethirtyeight.com/features/a-plagiarism-scandal-is-unfolding-in-the-crossword-world/)
-* [ICIJ: Panama Papers – The Power Players](https://projects.cloud.icij.org/panama-papers/power-players/)
 * [Marshall Project: The Next to die](https://www.themarshallproject.org/next-to-die)
 * [New York Times: How the nominees' convention speeches compare](http://www.nytimes.com/interactive/2016/07/29/us/elections/trump-clinton-pence-kaine-speeches.html)
 * [ProPublica: Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 * [ProPublica: What Facebook knows about you](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
 * [SZ: The Panama Papers](http://panamapapers.sueddeutsche.de/)
-* [The Intercept: The Android Administration](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/)
 * [The Guardian: The Counted](https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database)
 * [The Intercept: The Android Administration](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/)
 * [Washington Post: A visual history of Donald Trump dominating the news cycle](https://www.washingtonpost.com/graphics/politics/donald-trump-vs-hillary-clinton-in-media/)
