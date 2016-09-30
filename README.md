@@ -106,10 +106,12 @@ This list contains best practice examples of data journalism and visualization p
 * [Amanda Hickman](https://twitter.com/amandabee)
 * [Andy Kirk](https://twitter.com/visualisingdata)
 * [Brian Boyer](https://twitter.com/brianboyer)
+* [Chris Groskopf](https://twitter.com/onyxfish)
 * [David Bauer](https://twitter.com/davidbauer)
+* [David Yanofsky](https://twitter.com/YAN0)
 * [Derek Willis](https://twitter.com/derekwillis)
 * [Elijah Meeks](https://twitter.com/Elijah_Meeks)
-* [Erik Hinton])(https://twitter.com/erikhinton)
+* [Erik Hinton](https://twitter.com/erikhinton)
 * [Gregor Aisch](https://twitter.com/driven_by_data)
 * [Hans Hack](https://twitter.com/hnshck)
 * [Jan Willem Tulp](https://twitter.com/JanWillemTulp)
@@ -133,6 +135,7 @@ This list contains best practice examples of data journalism and visualization p
 * [Sarah Cohen](https://twitter.com/sarahcnyt)
 * [Scott Klein](https://twitter.com/kleinmatic)
 * [Sisi Wei](https://twitter.com/sisiwei)
+* [Ted Han](https://twitter.com/tedhan)
 * [Tom Pearson](https://twitter.com/tomp)
 
 ## Portfolios
