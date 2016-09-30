@@ -1,6 +1,6 @@
 # Awesome Interactive Journalism
 
-An opinionated list of best practice examples of data journalism and visualization projects. The goal of this list is **not to list all projects out there**, but to **list the most outstanding examples of visual and interactive journalism.**
+An opinionated list of best practice examples of data journalism and visualization projects. The goal of this list is **not to list all projects out there**, but to **list the most outstanding examples of visual and interactive journalism.** It is sorted by alphabet, so that there is no ranking.
 
 ## What makes an outstanding project?
 
