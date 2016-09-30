@@ -29,6 +29,7 @@ This list contains best practice examples of data journalism and visualization p
 * [Pro Publica: Las Vegas Growth Map](https://projects.propublica.org/las-vegas-growth-map/)
 * [The Guardian: Corals, South China Sea](https://www.theguardian.com/world/ng-interactive/2015/sep/17/south-china-sea-images-reveal-impact-on-coral-of-beijings-military-bases)
 * [The Guardian: Usain Bolt Replay](https://www.theguardian.com/sport/ng-interactive/2016/aug/20/how-usain-bolt-secured-the-triple-treble-with-jamaica-in-the-4x100m)
+* [Wall Street Journal: Analysing the Rap Musical Hamilton](http://graphics.wsj.com/hamilton/)
 
 ## Immersive Journalism
 
@@ -66,6 +67,7 @@ This list contains best practice examples of data journalism and visualization p
 * [Dear Data](http://www.dear-data.com/)
 * [Financial Times: A visual history of women's Tennis](https://ig.ft.com/sites/visual-history-of-womens-tennis/)
 * [Financial Times: Is urban cycling worth the risk?](https://ig.ft.com/sites/urban-cycling/)
+* [FiveThirtyEight: Who would win the presidency today?](http://projects.fivethirtyeight.com/2016-election-forecast/#now)
 * [Histography](http://histography.io/)
 * [National Geographic: Sizing up Sharks](http://www.nationalgeographic.com/magazine/2016/06/shark-species-family-tree-ocean-ecosystem-predator/)
 * [New York Times: All Races on the same scale](http://www.nytimes.com/interactive/2016/08/20/sports/olympics/gold-medal-racing-speeds-on-the-same-scale.html)
@@ -74,6 +76,7 @@ This list contains best practice examples of data journalism and visualization p
 * [New York Times: How they got their guns](http://www.nytimes.com/interactive/2015/10/03/us/how-mass-shooters-got-their-guns.html)
 * [New York Times: Visual History of Summer Olympics](http://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html)
 * [Polygraph: The entire history of Kickstarter](http://polygraph.cool/kickstarter/)
+* [ProPublica: How Much is a Limb Worth?](http://projects.propublica.org/graphics/workers-compensation-benefits-by-limb)
 * [R2D3: A visual intro to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [South China Morning Post: Front Pages Analysis](http://www.lucasinfografia.com/Front-pages-analysis)
 * [The Guardian: What's the world scared of?](https://www.theguardian.com/news/datablog/ng-interactive/2015/jul/17/interactive-whats-the-world-scared-of)
@@ -87,11 +90,13 @@ This list contains best practice examples of data journalism and visualization p
 * [Airbnb vs Berlin](http://www.airbnbvsberlin.de/)
 * [Buzzfeed: The Tennis Racket](https://www.buzzfeed.com/heidiblake/the-tennis-racket)
 * [FiveThirtyEight: A Plagiarism Scandal is unfolding in the Crossword world](http://fivethirtyeight.com/features/a-plagiarism-scandal-is-unfolding-in-the-crossword-world/)
+* [ICIJ: Panama Papers – The Power Players](https://projects.cloud.icij.org/panama-papers/power-players/)
 * [Marshall Project: The Next to die](https://www.themarshallproject.org/next-to-die)
 * [New York Times: How the nominees' convention speeches compare](http://www.nytimes.com/interactive/2016/07/29/us/elections/trump-clinton-pence-kaine-speeches.html)
 * [ProPublica: Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 * [ProPublica: What Facebook knows about you](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
 * [SZ: The Panama Papers](http://panamapapers.sueddeutsche.de/)
+* [The Intercept: The Android Administration](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/)
 * [The Guardian: The Counted](https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database)
 * [The Intercept: The Android Administration](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/)
 * [Washington Post: A visual history of Donald Trump dominating the news cycle](https://www.washingtonpost.com/graphics/politics/donald-trump-vs-hillary-clinton-in-media/)
@@ -124,6 +129,7 @@ This list contains best practice examples of data journalism and visualization p
 * [Lena Groeger](https://twitter.com/lenagroeger)
 * [Lisa Charlotte Rost](https://twitter.com/lisacrost)
 * [Maarten Lambrechts](https://twitter.com/maartenzam)
+* [Mara Averick](https://twitter.com/dataandme)
 * [Martin Gonzales](https://twitter.com/martgnz)
 * [Martin Stabe](https://twitter.com/martinstabe)
 * [Michael Corey](https://www.twitter.com/mikejcorey)
@@ -133,6 +139,7 @@ This list contains best practice examples of data journalism and visualization p
 * [Nathan Yau](https://twitter.com/flowingdata)
 * [Nadieh Bremer](https://twitter.com/NadiehBremer)
 * [Nicholas Rougeux](https://twitter.com/rougeux)
+* [Patrick Stotz](https://twitter.com/PatrickStotz)
 * [Ritchie King](https://twitter.com/RitchieSKing)
 * [Sisi Wei](https://twitter.com/sisiwei)
 * [Timo Grossenbacher](https://twitter.com/grssnbchr)
@@ -142,6 +149,9 @@ This list contains best practice examples of data journalism and visualization p
 
 ## Portfolios
 
+* [AP Interactive](https://twitter.com/AP_Interactive)
+* [Berliner Morgenpost](http://www.morgenpost.de/interaktiv/)
+* [Bloomberg](https://www.bloomberg.com/graphics/infographics/)
 * [FiveThirtyEight](https://twitter.com/FiveThirtyEight)
 * [Guardian Visuals](https://twitter.com/GuardianVisuals)
 * [Interactive Things](https://twitter.com/IXT)
@@ -152,6 +162,7 @@ This list contains best practice examples of data journalism and visualization p
 * [New York Times interactive Projects 2015](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
 * [NZZ Storytelling](https://twitter.com/NZZStorytelling)
 * [Polygraph](http://polygraph.cool/)
+* [ProPublica](https://www.propublica.org/data/) 
 * [SRF Data](http://www.srf.ch/data)
 * [Tulp Interactive](http://tulpinteractive.com/)
 * [Washington Post Graphics](https://twitter.com/PostGraphics)
