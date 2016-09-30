@@ -106,6 +106,7 @@ This list contains best practice examples of data journalism and visualization p
 * [Amanda Hickman](https://twitter.com/amandabee)
 * [Andy Kirk](https://twitter.com/visualisingdata)
 * [Brian Boyer](https://twitter.com/brianboyer)
+* [Cheryl Phillips](https://twitter.com/cephillips)
 * [Chris Groskopf](https://twitter.com/onyxfish)
 * [David Bauer](https://twitter.com/davidbauer)
 * [David Yanofsky](https://twitter.com/YAN0)
