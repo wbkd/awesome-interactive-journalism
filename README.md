@@ -157,7 +157,6 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Sarah Cohen](https://twitter.com/sarahcnyt)
 * [Scott Klein](https://twitter.com/kleinmatic)
 * [Sisi Wei](https://twitter.com/sisiwei)
-* [Sisi Wei](https://twitter.com/sisiwei)
 * [Ted Han](https://twitter.com/tedhan)
 * [Timo Grossenbacher](https://twitter.com/grssnbchr)
 * [Tom Meagher](https://twitter.com/ultracasual)
