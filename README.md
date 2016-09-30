@@ -142,6 +142,7 @@ This list contains best practice examples of data journalism and visualization p
 
 ## Portfolios
 
+* [BuzzFeedNews](https://github.com/BuzzFeedNews/everything)
 * [FiveThirtyEight](https://twitter.com/FiveThirtyEight)
 * [Guardian Visuals](https://twitter.com/GuardianVisuals)
 * [Interactive Things](https://twitter.com/IXT)
@@ -152,6 +153,7 @@ This list contains best practice examples of data journalism and visualization p
 * [New York Times interactive Projects 2015](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
 * [NZZ Storytelling](https://twitter.com/NZZStorytelling)
 * [Polygraph](http://polygraph.cool/)
+* [ProPublica](https://www.propublica.org/data/)
 * [SRF Data](http://www.srf.ch/data)
 * [Tulp Interactive](http://tulpinteractive.com/)
 * [Washington Post Graphics](https://twitter.com/PostGraphics)
