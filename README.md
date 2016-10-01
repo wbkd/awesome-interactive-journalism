@@ -38,6 +38,8 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Pro Publica: Las Vegas Growth Map](https://projects.propublica.org/las-vegas-growth-map/)
 * [The Guardian: Corals, South China Sea](https://www.theguardian.com/world/ng-interactive/2015/sep/17/south-china-sea-images-reveal-impact-on-coral-of-beijings-military-bases)
 * [The Guardian: Usain Bolt Replay](https://www.theguardian.com/sport/ng-interactive/2016/aug/20/how-usain-bolt-secured-the-triple-treble-with-jamaica-in-the-4x100m)
+* [KPCC: Officer Involved](http://projects.scpr.org/officer-involved/)
+
 
 ## Immersive Journalism
 
