@@ -66,6 +66,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [The Guardian: What do you call a person who moves to another country in search of a better life?](https://www.theguardian.com/uk-news/ng-interactive/2015/aug/28/words-migrant-refugee-immigration)
 * [Wall Street Journal: Are you good enough to be a Tennis Line Judge?](http://graphics.wsj.com/are-you-good-enough-to-be-a-tennis-line-judge/)
 * [Washington Post: DNC Emoji Reactions](https://www.washingtonpost.com/graphics/politics/2016-election/dnc-emoji-reactions/)
+* [The Fallen of World War II](http://www.fallen.io/ww2/) Note: they have a loading problem, author has been warned.
 
 ## Visualizations
 
