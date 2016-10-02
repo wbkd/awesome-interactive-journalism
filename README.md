@@ -60,13 +60,13 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [New York Times: Can you beat Usain Bolt out of the Blocks?](http://www.nytimes.com/interactive/2016/08/13/sports/olympics/can-you-beat-usain-bolt-out-of-the-blocks.html)
 * [New York Times: Spot the Ball](http://projects.nytimes.com/interactive/sports/worldcup/spot-the-ball/2014/06/17)
 * [New York Times: You Draw It](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html)
+* [The Fallen of World War II](http://www.fallen.io/ww2/)
 * [The Guardian: Are you reflected in the new congress?](https://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented)
 * [The Guardian: How well do you know your country?](https://www.theguardian.com/world/ng-interactive/2015/dec/02/how-well-do-you-really-know-your-country-take-our-quiz)
 * [The Guardian: Rio Run](riorun.theguardian.com)
 * [The Guardian: What do you call a person who moves to another country in search of a better life?](https://www.theguardian.com/uk-news/ng-interactive/2015/aug/28/words-migrant-refugee-immigration)
 * [Wall Street Journal: Are you good enough to be a Tennis Line Judge?](http://graphics.wsj.com/are-you-good-enough-to-be-a-tennis-line-judge/)
 * [Washington Post: DNC Emoji Reactions](https://www.washingtonpost.com/graphics/politics/2016-election/dnc-emoji-reactions/)
-* [The Fallen of World War II](http://www.fallen.io/ww2/) Note: they have a loading problem, author has been warned.
 
 ## Visualizations
 
