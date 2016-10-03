@@ -172,6 +172,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [BuzzFeedNews](https://github.com/BuzzFeedNews/everything)
 * [FiveThirtyEight](https://twitter.com/FiveThirtyEight)
 * [Guardian Visuals](https://twitter.com/GuardianVisuals)
+* [Graphics Departments Twitter List (collection)](https://twitter.com/archietse/lists/graphics-departments)
 * [Interactive Things](https://twitter.com/IXT)
 * [Kiln](https://twitter.com/k_i_l_n)
 * [LA Times Data Desk](https://twitter.com/LATdatadesk)
