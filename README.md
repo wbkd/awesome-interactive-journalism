@@ -36,6 +36,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [FiveThirtyEight: Gun Deaths](http://fivethirtyeight.com/features/gun-deaths/)
 * [New York Times: Michael Phelps vs. Himself](http://www.nytimes.com/interactive/2016/08/09/sports/olympics/2016-08-09-olympics-phelps-vs-phelps.html)
 * [New York Times: What China has been building in the South China Sea](http://www.nytimes.com/interactive/2015/07/30/world/asia/what-china-has-been-building-in-the-south-china-sea-2016.html)
+* [New York Times: Snowfall](http://www.nytimes.com/projects/2012/snow-fall/)
 * [Pitch Interactive: Out of Sight, out of Mind](http://drones.pitchinteractive.com/)
 * [Pro Publica: Las Vegas Growth Map](https://projects.propublica.org/las-vegas-growth-map/)
 * [The Guardian: Corals, South China Sea](https://www.theguardian.com/world/ng-interactive/2015/sep/17/south-china-sea-images-reveal-impact-on-coral-of-beijings-military-bases)
