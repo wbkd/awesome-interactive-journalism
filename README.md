@@ -23,6 +23,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [New York Times: The Best and Worst places to grow up](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html)
 * [New York Times: Mapping Segregation](http://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
+* [Politibot: Así se ha desplomado el PSE](https://politibot.es/interactivo/caida-pse-pais-vasco-25s/)
 * [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/)
 * [SPLC: Hate Map](https://www.splcenter.org/hate-map)
 * [Zeit Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land)
