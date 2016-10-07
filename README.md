@@ -91,6 +91,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [R2D3: A visual intro to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [South China Morning Post: Front Pages Analysis](http://www.lucasinfografia.com/Front-pages-analysis)
 * [The Guardian: What's the world scared of?](https://www.theguardian.com/news/datablog/ng-interactive/2015/jul/17/interactive-whats-the-world-scared-of)
+* [Wall Street Journal: Hamilton's rhymes](http://graphics.wsj.com/hamilton/)
 * [Washington Post: A decade of Trumps imports](https://www.washingtonpost.com/graphics/politics/trump-products/)
 * [Washington Post: Sizing up the Olympics](https://www.washingtonpost.com/graphics/sports/olympics/scale-of-the-olympics/)
 * [Washington Post: The Depth of the Problem](http://apps.washingtonpost.com/g/page/world/the-depth-of-the-problem/931/)
