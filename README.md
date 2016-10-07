@@ -153,6 +153,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Matt Waite](https://twitter.com/mattwaite)
 * [Michael Corey](https://www.twitter.com/mikejcorey)
 * [Mike Bostock](https://twitter.com/mbostock)
+* [Moritz Klack](https://twitter.com/moklick)
 * [Moritz Stefaner](https://twitter.com/moritz_stefaner)
 * [Nadieh Bremer](https://twitter.com/NadiehBremer)
 * [Nate Silver](https://twitter.com/natesilver538)
