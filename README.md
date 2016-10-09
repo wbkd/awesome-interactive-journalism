@@ -87,6 +87,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [New York Times: How could Trumps immigration Ban work?](http://www.nytimes.com/interactive/2016/07/22/us/politics/trump-immigration-ban-how-could-it-work.html)
 * [New York Times: How Syrians are dying](http://www.nytimes.com/interactive/2015/09/14/world/middleeast/syria-war-deaths.html)
 * [New York Times: How they got their guns](http://www.nytimes.com/interactive/2015/10/03/us/how-mass-shooters-got-their-guns.html)
+* [New York Times: The 273 People, Places and Things Donald Trump Has Insulted on Twitter: A Complete List](http://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html)
 * [New York Times: Visual History of Summer Olympics](http://www.nytimes.com/interactive/2016/08/08/sports/olympics/history-olympic-dominance-charts.html)
 * [Polygraph: The entire history of Kickstarter](http://polygraph.cool/kickstarter/)
 * [R2D3: A visual intro to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
