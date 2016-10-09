@@ -128,6 +128,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Brian Boyer](https://twitter.com/brianboyer)
 * [Cheryl Phillips](https://twitter.com/cephillips)
 * [Chris Groskopf](https://twitter.com/onyxfish)
+* [Christopher Möller](https://twitter.com/chrtze)
 * [David Bauer](https://twitter.com/davidbauer)
 * [David Yanofsky](https://twitter.com/YAN0)
 * [Derek Willis](https://twitter.com/derekwillis)
