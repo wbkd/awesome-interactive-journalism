@@ -179,6 +179,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Berliner Morgenpost](http://www.morgenpost.de/interaktiv/)
 * [Bloomberg](https://www.bloomberg.com/graphics/infographics/)
 * [BuzzFeedNews](https://github.com/BuzzFeedNews/everything)
+* [Datasketch.es](http://www.datasketch.es/)
 * [FiveThirtyEight](https://twitter.com/FiveThirtyEight)
 * [Guardian Visuals](https://twitter.com/GuardianVisuals)
 * [Graphics Departments Twitter List (collection)](https://twitter.com/archietse/lists/graphics-departments)
