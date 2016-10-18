@@ -30,6 +30,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 
 ## Storytelling
 
+* [Adam Westbrook: The Divorce](http://journal.adamwestbrook.co.uk/thedivorce/)
 * [Berliner Morgenpost: M29](http://interaktiv.morgenpost.de/m29/)
 * [Bloomberg: What's causing global warming](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/)
 * [Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
@@ -42,8 +43,8 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [The Guardian: Corals, South China Sea](https://www.theguardian.com/world/ng-interactive/2015/sep/17/south-china-sea-images-reveal-impact-on-coral-of-beijings-military-bases)
 * [The Guardian: Usain Bolt Replay](https://www.theguardian.com/sport/ng-interactive/2016/aug/20/how-usain-bolt-secured-the-triple-treble-with-jamaica-in-the-4x100m)
 * [The Guardian: NSA files: Decoded](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded)
+* [Washington Post: Raising Barriers](https://www.washingtonpost.com/graphics/world/border-barriers/global-illegal-immigration-prevention/)
 * [Quartz: Map of the internet](http://qz.com/se/map-of-the-internet/)
-* [Adam Westbrook: The Divorce](http://journal.adamwestbrook.co.uk/thedivorce/)
 
 ## Immersive Journalism
 
