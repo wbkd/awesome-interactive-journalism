@@ -96,6 +96,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [South China Morning Post: Front Pages Analysis](http://www.lucasinfografia.com/Front-pages-analysis)
 * [The Guardian: What's the world scared of?](https://www.theguardian.com/news/datablog/ng-interactive/2015/jul/17/interactive-whats-the-world-scared-of)
 * [Washington Post: A decade of Trumps imports](https://www.washingtonpost.com/graphics/politics/trump-products/)
+* [Washington Post: Most of Trump's charts skew the data](https://www.washingtonpost.com/graphics/politics/2016-election/trump-charts/)
 * [Washington Post: Sizing up the Olympics](https://www.washingtonpost.com/graphics/sports/olympics/scale-of-the-olympics/)
 * [Washington Post: The Depth of the Problem](http://apps.washingtonpost.com/g/page/world/the-depth-of-the-problem/931/)
 * [Quartz: Every active satellite orbiting earth](http://qz.com/296941/interactive-graphic-every-active-satellite-orbiting-earth/)
