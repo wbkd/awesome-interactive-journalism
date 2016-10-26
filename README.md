@@ -24,7 +24,6 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [New York Times: Mapping Segregation](http://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
 * [Politibot: Así se ha desplomado el PSE](https://politibot.es/interactivo/caida-pse-pais-vasco-25s/)
-* [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/)
 * [SPLC: Hate Map](https://www.splcenter.org/hate-map)
 * [Zeit Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land)
 
@@ -36,11 +35,8 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
 * [FiveThirtyEight: Gun Deaths](http://fivethirtyeight.com/features/gun-deaths/)
 * [New York Times: Michael Phelps vs. Himself](http://www.nytimes.com/interactive/2016/08/09/sports/olympics/2016-08-09-olympics-phelps-vs-phelps.html)
-* [New York Times: What China has been building in the South China Sea](http://www.nytimes.com/interactive/2015/07/30/world/asia/what-china-has-been-building-in-the-south-china-sea-2016.html)
 * [New York Times: Snowfall](http://www.nytimes.com/projects/2012/snow-fall/)
 * [Pitch Interactive: Out of Sight, out of Mind](http://drones.pitchinteractive.com/)
-* [Pro Publica: Las Vegas Growth Map](https://projects.propublica.org/las-vegas-growth-map/)
-* [The Guardian: Corals, South China Sea](https://www.theguardian.com/world/ng-interactive/2015/sep/17/south-china-sea-images-reveal-impact-on-coral-of-beijings-military-bases)
 * [The Guardian: Usain Bolt Replay](https://www.theguardian.com/sport/ng-interactive/2016/aug/20/how-usain-bolt-secured-the-triple-treble-with-jamaica-in-the-4x100m)
 * [The Guardian: NSA files: Decoded](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded)
 * [Washington Post: Raising Barriers](https://www.washingtonpost.com/graphics/world/border-barriers/global-illegal-immigration-prevention/)
@@ -50,11 +46,9 @@ An opinionated list of best practice examples of data journalism and visualizati
 
 * [National Geographic: The New New York Skyline](http://www.nationalgeographic.com/new-york-city-skyline-tallest-midtown-manhattan/)
 * [New York Times: 3D Yield Curve](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
-* [New York Times: Greenland is melting away](http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html)
 * [New York Times: Reshaping New York](http://www.nytimes.com/newsgraphics/2013/08/18/reshaping-new-york/)
 * [New York Times: The Dawn Wall](http://www.nytimes.com/interactive/2015/01/09/sports/the-dawn-wall-el-capitan.html)
 * [New York Times VR App](http://www.nytimes.com/marketing/nytvr/)
-* [SRF: Gotthard Tunnel 360](http://www.srf.ch/news/schweiz/gotthard/tauchen-sie-ein-in-den-neuen-tunnel)
 * [The Guardian: Homan Square](https://www.theguardian.com/us-news/ng-interactive/2015/oct/19/homan-square-chicago-police-detainees)
 * [The Guardian: Solitary Confinement](https://www.theguardian.com/world/ng-interactive/2016/apr/27/6x9-a-virtual-experience-of-solitary-confinement)
 * [The Guardian: The London Skyline of Tomorrow](https://www.theguardian.com/artanddesign/2015/dec/11/city-of-london-skyline-of-tomorrow-interactive)
@@ -115,6 +109,17 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [The Intercept: The Android Administration](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/)
 * [Washington Post: A visual history of Donald Trump dominating the news cycle](https://www.washingtonpost.com/graphics/politics/donald-trump-vs-hillary-clinton-in-media/)
 * [Washington Post: Fatal Force](https://www.washingtonpost.com/graphics/national/police-shootings-2016/)
+
+## Drone / Satellite
+
+* [Berliner Morgenpost: Das sind Deutschlands grünste Großstädte](http://interaktiv.morgenpost.de/gruenste-staedte-deutschlands/)
+* [New York Times: Greenland is melting away](http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html)
+* [New York Times: Living in China's Expanding Deserts](http://www.nytimes.com/interactive/2016/10/24/world/asia/living-in-chinas-expanding-deserts.html)
+* [New York Times: What China has been building in the South China Sea](http://www.nytimes.com/interactive/2015/07/30/world/asia/what-china-has-been-building-in-the-south-china-sea-2016.html)
+* [Pro Publica: Las Vegas Growth Map](https://projects.propublica.org/las-vegas-growth-map/)
+* [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/)
+* [SRF: Gotthard Tunnel 360](http://www.srf.ch/news/schweiz/gotthard/tauchen-sie-ein-in-den-neuen-tunnel)
+* [The Guardian: Corals, South China Sea](https://www.theguardian.com/world/ng-interactive/2015/sep/17/south-china-sea-images-reveal-impact-on-coral-of-beijings-military-bases)
 
 ## Who to follow
 
