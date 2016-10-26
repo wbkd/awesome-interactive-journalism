@@ -116,7 +116,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [New York Times: Greenland is melting away](http://www.nytimes.com/interactive/2015/10/27/world/greenland-is-melting-away.html)
 * [New York Times: Living in China's Expanding Deserts](http://www.nytimes.com/interactive/2016/10/24/world/asia/living-in-chinas-expanding-deserts.html)
 * [New York Times: What China has been building in the South China Sea](http://www.nytimes.com/interactive/2015/07/30/world/asia/what-china-has-been-building-in-the-south-china-sea-2016.html)
-* [Pro Publica: Las Vegas Growth Map](https://projects.propublica.org/las-vegas-growth-map/)
+* [ProPublica: Las Vegas Growth Map](https://projects.propublica.org/las-vegas-growth-map/)
 * [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/)
 * [SRF: Gotthard Tunnel 360](http://www.srf.ch/news/schweiz/gotthard/tauchen-sie-ein-in-den-neuen-tunnel)
 * [The Guardian: Corals, South China Sea](https://www.theguardian.com/world/ng-interactive/2015/sep/17/south-china-sea-images-reveal-impact-on-coral-of-beijings-military-bases)
