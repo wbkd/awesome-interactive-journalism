@@ -120,6 +120,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [ProPublica: Losing Ground](https://projects.propublica.org/louisiana/)
 * [SRF: Gotthard Tunnel 360](http://www.srf.ch/news/schweiz/gotthard/tauchen-sie-ein-in-den-neuen-tunnel)
 * [The Guardian: Corals, South China Sea](https://www.theguardian.com/world/ng-interactive/2015/sep/17/south-china-sea-images-reveal-impact-on-coral-of-beijings-military-bases)
+* [The Intercept: Visualising the U.S.-Mexico Border](https://theintercept.com/2016/10/18/best-of-luck-with-the-wall/)
 
 ## Who to follow
 
