@@ -20,6 +20,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [The Guardian: Where can you afford to buy a house](https://www.theguardian.com/society/ng-interactive/2015/sep/02/unaffordable-country-where-can-you-afford-to-buy-a-house)
 * [Kiln: Shipmap](http://shipmap.org/)
 * [LA Times: Every Kobe Shot Ever](http://graphics.latimes.com/kobe-every-shot-ever/)
+* [LA Times: Who gives money to Bernie Sanders?](http://www.latimes.com/projects/la-na-pol-sanders-donors/)
 * [New York Times: The Best and Worst places to grow up](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html)
 * [New York Times: Mapping Segregation](http://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
