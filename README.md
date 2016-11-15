@@ -22,10 +22,13 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [LA Times: Every Kobe Shot Ever](http://graphics.latimes.com/kobe-every-shot-ever/)
 * [LA Times: Who gives money to Bernie Sanders?](http://www.latimes.com/projects/la-na-pol-sanders-donors/)
 * [New York Times: The Best and Worst places to grow up](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html)
+* [New York Times: How North Carolina Voted](http://www.nytimes.com/interactive/2016/11/08/us/elections/north-carolina-presidential-election-precinct-maps.html)
+* [New York Times: How Trump Reshaped the Election Map](http://www.nytimes.com/interactive/2016/11/08/us/elections/how-trump-pushed-the-election-map-to-the-right.html)
 * [New York Times: Mapping Segregation](http://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
 * [Politibot: Así se ha desplomado el PSE](https://politibot.es/interactivo/caida-pse-pais-vasco-25s/)
 * [SPLC: Hate Map](https://www.splcenter.org/hate-map)
+* [Washington Post: How Trump Redrew the Electoral Map](https://www.washingtonpost.com/graphics/politics/2016-election/election-results-from-coast-to-coast/)
 * [Zeit Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land)
 
 ## Storytelling
@@ -40,6 +43,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Pitch Interactive: Out of Sight, out of Mind](http://drones.pitchinteractive.com/)
 * [The Guardian: Usain Bolt Replay](https://www.theguardian.com/sport/ng-interactive/2016/aug/20/how-usain-bolt-secured-the-triple-treble-with-jamaica-in-the-4x100m)
 * [The Guardian: NSA files: Decoded](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded)
+* [Wall Street Journal: Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)
 * [Washington Post: Raising Barriers](https://www.washingtonpost.com/graphics/world/border-barriers/global-illegal-immigration-prevention/)
 * [Quartz: Map of the internet](http://qz.com/se/map-of-the-internet/)
 
