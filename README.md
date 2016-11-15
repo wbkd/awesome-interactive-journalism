@@ -47,6 +47,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 
 * [National Geographic: The New New York Skyline](http://www.nationalgeographic.com/new-york-city-skyline-tallest-midtown-manhattan/)
 * [New York Times: 3D Yield Curve](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
+* [New York Times: Dear Architects: Sound Matters](http://www.nytimes.com/interactive/2015/12/29/arts/design/sound-architecture.html)
 * [New York Times: Reshaping New York](http://www.nytimes.com/newsgraphics/2013/08/18/reshaping-new-york/)
 * [New York Times: The Dawn Wall](http://www.nytimes.com/interactive/2015/01/09/sports/the-dawn-wall-el-capitan.html)
 * [New York Times VR App](http://www.nytimes.com/marketing/nytvr/)
