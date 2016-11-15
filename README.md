@@ -46,6 +46,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 
 * [National Geographic: The New New York Skyline](http://www.nationalgeographic.com/new-york-city-skyline-tallest-midtown-manhattan/)
 * [New York Times: 3D Yield Curve](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
+* [New York Times: Dear Architects: Sound Matters](http://www.nytimes.com/interactive/2015/12/29/arts/design/sound-architecture.html)
 * [New York Times: Reshaping New York](http://www.nytimes.com/newsgraphics/2013/08/18/reshaping-new-york/)
 * [New York Times: The Dawn Wall](http://www.nytimes.com/interactive/2015/01/09/sports/the-dawn-wall-el-capitan.html)
 * [New York Times VR App](http://www.nytimes.com/marketing/nytvr/)
@@ -53,7 +54,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [The Guardian: Solitary Confinement](https://www.theguardian.com/world/ng-interactive/2016/apr/27/6x9-a-virtual-experience-of-solitary-confinement)
 * [The Guardian: The London Skyline of Tomorrow](https://www.theguardian.com/artanddesign/2015/dec/11/city-of-london-skyline-of-tomorrow-interactive)
 * [Wall Street Journal: Is the Nasdaq in another Bubble?](http://graphics.wsj.com/3d-nasdaq/)
-* [New York Times:Dear Architects: Sound Matters](http://www.nytimes.com/interactive/2015/12/29/arts/design/sound-architecture.html)
+
 ## Interactives
 
 * [Bloomberg: What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
