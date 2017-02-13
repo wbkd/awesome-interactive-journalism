@@ -43,6 +43,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [New York Times: Snowfall](http://www.nytimes.com/projects/2012/snow-fall/)
 * [Pitch Interactive: Out of Sight, out of Mind](http://drones.pitchinteractive.com/)
 * [The Guardian: Usain Bolt Replay](https://www.theguardian.com/sport/ng-interactive/2016/aug/20/how-usain-bolt-secured-the-triple-treble-with-jamaica-in-the-4x100m)
+* [The Guardian: Donald Trump's first 100 days](https://www.theguardian.com/us-news/ng-interactive/2017/jan/20/donald-trump-first-100-days-president-daily-updates)
 * [The Guardian: NSA files: Decoded](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded)
 * [Wall Street Journal: Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)
 * [Washington Post: Raising Barriers](https://www.washingtonpost.com/graphics/world/border-barriers/global-illegal-immigration-prevention/)
