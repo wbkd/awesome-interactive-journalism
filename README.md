@@ -28,6 +28,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [New York Times: Mapping Segregation](http://www.nytimes.com/interactive/2015/07/08/us/census-race-map.html)
 * [New York Times: Inside Raqqa](http://www.nytimes.com/interactive/2015/11/21/world/middleeast/inside-raqqa-capital-of-isis.html)
 * [Politibot: Así se ha desplomado el PSE](https://politibot.es/interactivo/caida-pse-pais-vasco-25s/)
+* [Pudding: The shape of slavery](https://pudding.cool/2017/01/shape-of-slavery/)
 * [SPLC: Hate Map](https://www.splcenter.org/hate-map)
 * [Washington Post: How Trump Redrew the Electoral Map](https://www.washingtonpost.com/graphics/politics/2016-election/election-results-from-coast-to-coast/)
 * [Zeit Online: A nation divided](http://www.zeit.de/feature/mauerfall-das-geteilte-land)
@@ -66,6 +67,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 
 * [Bloomberg: What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [FiveThirtyEight: How the Internet talks](http://projects.fivethirtyeight.com/reddit-ngram/)
+* [Kim Albrecht: Trump Connections](http://trump.kimalbrecht.com/network/)
 * [New York Times: Can you beat Usain Bolt out of the Blocks?](http://www.nytimes.com/interactive/2016/08/13/sports/olympics/can-you-beat-usain-bolt-out-of-the-blocks.html)
 * [New York Times: Spot the Ball](http://projects.nytimes.com/interactive/sports/worldcup/spot-the-ball/2014/06/17)
 * [New York Times: You Draw It](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html)
