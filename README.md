@@ -49,6 +49,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Wall Street Journal: Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)
 * [Washington Post: Raising Barriers](https://www.washingtonpost.com/graphics/world/border-barriers/global-illegal-immigration-prevention/)
 * [Quartz: Map of the internet](http://qz.com/se/map-of-the-internet/)
+* [NZZ: Just how big the known part of Pi really is](https://www.nzz.ch/storytelling/pi-day-just-how-big-the-known-part-of-pi-really-is-ld.151150)
 
 ## Immersive Journalism
 
