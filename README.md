@@ -119,6 +119,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [The Intercept: The Android Administration](https://theintercept.com/2016/04/22/googles-remarkably-close-relationship-with-the-obama-white-house-in-two-charts/)
 * [Washington Post: A visual history of Donald Trump dominating the news cycle](https://www.washingtonpost.com/graphics/politics/donald-trump-vs-hillary-clinton-in-media/)
 * [Washington Post: Fatal Force](https://www.washingtonpost.com/graphics/national/police-shootings-2016/)
+* [Washington Post: 	How far you can get if you leave the largest U.S. cities at rush hour](https://www.washingtonpost.com/graphics/2017/national/escape-time/?utm_term=.eb6b6d70dead)
 
 ## Drone / Satellite
 
