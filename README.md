@@ -40,6 +40,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Bloomberg: What's causing global warming](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/)
 * [Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
 * [FiveThirtyEight: Gun Deaths](http://fivethirtyeight.com/features/gun-deaths/)
+* [Poor Millennials](http://highline.huffingtonpost.com/articles/en/poor-millennials/)
 * [New York Times: Michael Phelps vs. Himself](http://www.nytimes.com/interactive/2016/08/09/sports/olympics/2016-08-09-olympics-phelps-vs-phelps.html)
 * [New York Times: Snowfall](http://www.nytimes.com/projects/2012/snow-fall/)
 * [Pitch Interactive: Out of Sight, out of Mind](http://drones.pitchinteractive.com/)
