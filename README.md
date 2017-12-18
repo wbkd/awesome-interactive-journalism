@@ -171,7 +171,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Maarten Lambrechts](https://twitter.com/maartenzam)
 * [Mara Averick](https://twitter.com/dataandme)
 * [Martin Burch](https://twitter.com/seecmb)
-* [Martin Gonzales](https://twitter.com/martgnz)
+* [Martín González](https://twitter.com/martgnz)
 * [Martin Stabe](https://twitter.com/martinstabe)
 * [Matt Waite](https://twitter.com/mattwaite)
 * [Michael Corey](https://www.twitter.com/mikejcorey)
