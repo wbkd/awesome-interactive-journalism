@@ -36,6 +36,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 ## Storytelling
 
 * [Adam Westbrook: The Divorce](http://journal.adamwestbrook.co.uk/thedivorce/)
+* [Atlantic: Population Healthier](http://www.theatlantic.com/sponsored/athenahealth/)
 * [Berliner Morgenpost: M29](http://interaktiv.morgenpost.de/m29/)
 * [Bloomberg: What's causing global warming](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/)
 * [Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea)
@@ -214,6 +215,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Polygraph](http://polygraph.cool/)
 * [ProPublica](https://www.propublica.org/data/)
 * [SRF Data](http://www.srf.ch/data)
+* [Truth Labs](http://truthlabs.com/)
 * [Tulp Interactive](http://tulpinteractive.com/)
 * [Washington Post Graphics](https://twitter.com/PostGraphics)
 * [Webkid](http://webkid.io/)
