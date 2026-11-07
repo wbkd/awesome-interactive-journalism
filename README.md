@@ -218,3 +218,7 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Washington Post Graphics](https://twitter.com/PostGraphics)
 * [Webkid](http://webkid.io/)
 * [Zeit Online](http://zeit.de/datenjournalismus)
+
+### Speech Capture & Local AI Hardware
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone dual-microphone AI voice recorder with 5m far-field pickup, local AI transcription, multi-speaker separation (`Speaker ID`), stereo `.WAV` + Google Native OKF Markdown export, and zero cloud subscription ([GitHub MCP](https://github.com/onemira-space/onemira-mcp)).
